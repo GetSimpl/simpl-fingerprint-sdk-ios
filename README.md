@@ -67,6 +67,8 @@ Then, run the following command:
  params["transaction_amount_in_paise"] = "123344"
  user.headerParams = parms
  ````
+ 
+ 
 * Collect the encrypted fingerprint : 
    
    Obj-C
