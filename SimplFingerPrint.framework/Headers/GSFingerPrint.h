@@ -23,7 +23,6 @@
 /**
   Get the encrypted fingerprint data.
  */
-
--(NSString * __nullable) generateEncryptedPayload ;
+-(void) generateEncryptedPayloadWithCallback:(void(^)(NSString* __nullable)) callback;
 
 @end

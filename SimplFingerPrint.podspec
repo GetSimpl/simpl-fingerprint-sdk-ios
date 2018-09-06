@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SimplFingerPrint"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "SimplFingerPrint iOS SDK."
   s.homepage     = "https://github.com/GetSimpl/simpl-fingerprint-sdk-ios"
   s.license = {:type => 'Commercial' , :file => 'License'}
