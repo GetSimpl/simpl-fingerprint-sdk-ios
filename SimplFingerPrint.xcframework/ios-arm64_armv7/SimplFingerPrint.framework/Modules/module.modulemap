@@ -1,0 +1,6 @@
+framework module SimplFingerPrint {
+  umbrella header "SimplFingerPrint.h"
+
+  export *
+  module * { export * }
+}
